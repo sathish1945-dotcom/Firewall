@@ -1,0 +1,6 @@
+{
+  "name": "Impulse Firewall",
+  "description": "A smart pause between automatic digital behavior and conscious choice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
